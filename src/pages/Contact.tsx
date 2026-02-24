@@ -51,10 +51,10 @@ const Contact = () => {
                       <h3 className="text-2xl font-bold text-black dark:text-white mb-2">Call Us</h3>
                       <p className="text-gray-600 dark:text-gray-400 mb-3">Mon-Fri: 8AM-8PM, Sat-Sun: 9AM-6PM</p>
                       <a 
-                        href="tel:888-890-0043" 
+                        href="tel:855-661-0984" 
                         className="text-lg font-medium text-black dark:text-white hover:opacity-70 transition-opacity"
                       >
-                        (888) 890-0043
+                        (855) 661-0984
                       </a>
                     </div>
                   </div>
