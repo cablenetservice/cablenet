@@ -86,12 +86,17 @@ const Footer = () => {
                   Refund Policy
                 </Link>
               </li>
+              <li>
+                <Link to="/advertising-disclosure" className="text-muted-foreground hover:text-black dark:hover:text-white transition-all text-sm font-medium">
+                  Advertising Disclosure
+                </Link>
+              </li>
             </ul>
           </div>
         </div>
 
         <div className="pt-8 border-t border-border text-center text-muted-foreground text-sm">
-          © {new Date().getFullYear()} Cable & Net Services. All rights reserved.
+          © {new Date().getFullYear()} Cable & Net Services. All rights reserved. | Owned by Carol Jordan
         </div>
       </div>
     </footer>
