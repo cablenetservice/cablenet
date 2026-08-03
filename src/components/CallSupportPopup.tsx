@@ -10,7 +10,7 @@ import {
 import { Button } from "@/components/ui/button";
 
 const POPUP_SESSION_KEY = "callSupportPopupShown";
-const POPUP_DELAY_MS = 6000;
+const POPUP_DELAY_MS = 5000;
 
 const CallSupportPopup = () => {
   const [open, setOpen] = useState(false);
