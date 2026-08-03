@@ -131,9 +131,7 @@ const Privacy = () => {
                 <br />
                 Email: privacy@cablenetservices.com
                 <br />
-                Phone: 1-800-NET-SPEED
-                <br />
-                Address: 123 Tech Boulevard, Suite 400, San Francisco, CA 94105
+                Phone: (855) 470-5668
               </p>
             </section>
           </div>
