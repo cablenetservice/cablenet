@@ -46,11 +46,18 @@ const CallSupportPopup = () => {
           size="lg"
           className="w-full h-auto whitespace-normal text-sm sm:text-lg py-4 sm:py-6 bg-black hover:bg-gray-800 text-white dark:bg-white dark:text-black dark:hover:bg-gray-100 font-semibold rounded-full"
         >
-          <a href="tel:+18334574435" className="flex items-center justify-center gap-2 flex-wrap">
+          <a href="tel:+18334574435" className="flex items-center justify-center gap-2">
             <Phone className="w-5 h-5 shrink-0" />
-            <span>CALL SUPPORT NOW: (833) 457-4435</span>
+            <span>CALL SUPPORT NOW</span>
           </a>
         </Button>
+
+        <a
+          href="tel:+18334574435"
+          className="text-lg font-semibold text-foreground hover:opacity-70 transition-opacity"
+        >
+          (833) 457-4435
+        </a>
 
         <p className="text-xs text-muted-foreground">
           Quick assistance • No forms • Talk to a real agent
