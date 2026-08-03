@@ -17,9 +17,9 @@ const Footer = () => {
             <p className="text-muted-foreground text-sm mb-4">
               Lightning-fast internet for modern living. Connect to what matters most.
             </p>
-            <a href="tel:+18554705668" className="flex items-center space-x-2 text-foreground hover:text-black dark:hover:text-white transition-all mb-2">
+            <a href="tel:+18334574435" className="flex items-center space-x-2 text-foreground hover:text-black dark:hover:text-white transition-all mb-2">
               <Phone className="w-4 h-4" />
-              <span className="font-semibold">(855) 470-5668</span>
+              <span className="font-semibold">(833) 457-4435</span>
             </a>
             <a href="tel:+18886202103" className="flex items-center space-x-2 text-foreground hover:text-black dark:hover:text-white transition-all">
               <Phone className="w-4 h-4" />

@@ -24,7 +24,7 @@ const Navigation = () => {
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
-            <a href="tel:+18554705668" className="flex items-center text-foreground hover:text-black dark:hover:text-white transition-all" title="Call (855) 470-5668">
+            <a href="tel:+18334574435" className="flex items-center text-foreground hover:text-black dark:hover:text-white transition-all" title="Call (833) 457-4435">
               <Phone className="w-5 h-5" />
             </a>
             <Link to="/" className="text-foreground hover:text-black dark:hover:text-white transition-all font-medium" onClick={handleLinkClick}>
@@ -43,7 +43,7 @@ const Navigation = () => {
               Contact
             </Link>
             <Button asChild className="bg-black hover:bg-gray-800 text-white dark:bg-white dark:text-black dark:hover:bg-gray-100 font-semibold shadow-lg rounded-full">
-              <a href="tel:+18554705668">Get Started</a>
+              <a href="tel:+18334574435">Get Started</a>
             </Button>
           </div>
 
@@ -59,7 +59,7 @@ const Navigation = () => {
         {/* Mobile Navigation */}
         {isOpen && (
           <div className="md:hidden mt-4 pb-4 space-y-4">
-            <a href="tel:+18554705668" className="flex items-center justify-center py-2 text-foreground hover:text-black dark:hover:text-white transition-all border-b border-border" title="Call (855) 470-5668">
+            <a href="tel:+18334574435" className="flex items-center justify-center py-2 text-foreground hover:text-black dark:hover:text-white transition-all border-b border-border" title="Call (833) 457-4435">
               <Phone className="w-5 h-5" />
             </a>
             <Link
@@ -98,7 +98,7 @@ const Navigation = () => {
               Contact
             </Link>
             <Button asChild className="w-full bg-black hover:bg-gray-800 text-white dark:bg-white dark:text-black dark:hover:bg-gray-100 font-semibold shadow-lg rounded-full">
-              <a href="tel:+18554705668">
+              <a href="tel:+18334574435">
                 Get Started
               </a>
             </Button>

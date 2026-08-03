@@ -168,14 +168,14 @@ const Index = () => {
               Experience the future of connectivity with lightning-fast speeds,
             </p>
             <p className="text-xl md:text-2xl text-gray-800 mb-10 max-w-3xl mx-auto font-medium">
-              unmatched reliability, and 24/7 support. (855) 470-5668 | (888) 620-2103
+              unmatched reliability, and 24/7 support. (833) 457-4435 | (888) 620-2103
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Button size="lg" className="text-lg px-10 py-6 bg-black hover:bg-gray-900 text-white rounded-full font-semibold" asChild>
-                <a href="tel:+18554705668">Get Started</a>
+                <a href="tel:+18334574435">Get Started</a>
               </Button>
               <Button size="lg" variant="outline" className="text-lg px-10 py-6 border-2 border-black text-black hover:bg-black hover:text-white rounded-full font-semibold" asChild>
-                <a href="tel:+18554705668">Learn More</a>
+                <a href="tel:+18334574435">Learn More</a>
               </Button>
             </div>
           </div>
